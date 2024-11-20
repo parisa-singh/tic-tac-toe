@@ -1,7 +1,3 @@
-# Author: Parisa Singh
-# Email: parisasingh@umass.edu
-# Spire ID: 34751702
-
 def print_board(n, board):
     # premake +---+ style boundary using string mutiplication and concatination
     boundary_line = ("+---" * n) + "+"
